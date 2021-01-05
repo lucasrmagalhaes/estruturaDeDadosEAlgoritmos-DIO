@@ -33,13 +33,13 @@
 
 <h3 align="center">Tipos:</h3>
 
-<h2 align="left">LIFO (Last in First Out) OU UEPS (Último que Entra Primeiro que Sai)</h2>
+<h4 align="left">LIFO (Last in First Out) OU UEPS (Último que Entra Primeiro que Sai)</h4>
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apresenta o seguinte critério: o primeiro elemento a ser retirado é o último que tiver sido inserido.
 </p>
 
-<h2 align="left">FIFO (First in First Out) OU PEPS (Primeiro que Entra Primeiro que Sai)</h2>
+<h4 align="left">FIFO (First in First Out) OU PEPS (Primeiro que Entra Primeiro que Sai)</h4>
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apresenta o seguinte critério: o primeiro elemento a ser retirado é o primeiro que tiver sido inserido.
