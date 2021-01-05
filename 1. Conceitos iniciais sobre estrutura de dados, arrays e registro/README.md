@@ -27,7 +27,7 @@
 <h3 align="center">Registros</h3>
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Permite armazenar mais de um tipo de dado.</br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Permite armazenar mais de um tipo de dado.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Composto por campos que especificam cada uma das informações que o compõem.
 </p>
 
