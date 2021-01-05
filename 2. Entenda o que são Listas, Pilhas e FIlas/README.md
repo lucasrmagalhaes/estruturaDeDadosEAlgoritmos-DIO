@@ -10,13 +10,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dois tipos: Ligadas e Duplamente ligadas.
 </p>
 
-<h3 align="center">Lista Ligada</h3>
+<h4 align="left">Lista Ligada</h4>
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existem os nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interior, além de conhecer o elemento posterior a ele: por isso ela é chamada de “lista ligada”, pois os nós são amarrados com essa indicação de qual é o próximo nó.
 </p>
 
-<h3 align="center">Lista Duplamente Ligada</h3>
+<h4 align="left">Lista Duplamente Ligada</h4>
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As listas duplamente ligadas constituem uma variação das listas ligadas.
@@ -31,7 +31,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O acesso aos itens é restrito – somente um item pode ser lido ou removido por vez.
 </p>
 
-<h3 align="center">Tipos:</h3>
+<h3 align="center">Tipos de Pilhas</h3>
 
 <h4 align="left">LIFO (Last in First Out) OU UEPS (Último que Entra Primeiro que Sai)</h4>
 
